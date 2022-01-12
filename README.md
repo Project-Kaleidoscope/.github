@@ -1,2 +1,2 @@
 # EyeWorlds
-Website, see the worlds.
+See the worlds
