@@ -2,9 +2,9 @@
 
 One million eyes, one million worlds. 
 
-### This will be a new beginning
+### Sunflower Alpha 1 is available now!
 
-![Banner](https://github.com/Project-Kaleidoscope/.github/blob/master/assets/ProjectBanner.png)
+[https://twitter.com/KaleidoscopeOS/status/1503959182323556357](https://twitter.com/KaleidoscopeOS/status/1503959182323556357)
 
 <!--
 
