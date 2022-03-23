@@ -4,7 +4,7 @@ One million eyes, one million worlds.
 
 ### Sunflower Alpha 1 is available now!
 
-[https://twitter.com/KaleidoscopeOS/status/1503959182323556357](https://twitter.com/KaleidoscopeOS/status/1503959182323556357)
+[https://twitter.com/KaleidoscopeOS/status/1503032673090088962](https://twitter.com/KaleidoscopeOS/status/1503032673090088962)
 
 <!--
 
