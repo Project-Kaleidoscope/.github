@@ -1,10 +1,14 @@
 ## Welcome to Project Kaleidoscope👋
 
-One million eyes, one million worlds. 
+One million eyes, one million worlds.
 
-### Sunflower Alpha 2 is available now!
+[Download Center](https://kaleidoscope.ink/download.html)
 
-[https://twitter.com/KaleidoscopeOS/status/1521904141571788800](https://twitter.com/KaleidoscopeOS/status/1521904141571788800)
+### Sunflower Leaf Beta 1 is available now!
+
+[https://twitter.com/KaleidoscopeOS/status/1549816475011399680](https://twitter.com/KaleidoscopeOS/status/1549816475011399680)
+
+[https://twitter.com/realMlgmXyysd/status/1549817850768269313](https://twitter.com/realMlgmXyysd/status/1549817850768269313)
 
 <!--
 
