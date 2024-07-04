@@ -2,9 +2,9 @@
 
 One million eyes, one million worlds.
 
-[Download Center](https://kaleidoscope.ink/download.html)
+[Official Website](https://kaleidoscope.ink/) [Download Center](https://kaleidoscope.ink/download.html)
 
-### Sunflower Leaf Beta 1 is available now!
+### Sunflower Leaf Beta 2 is available now!
 
 [https://twitter.com/KaleidoscopeOS/status/1549816475011399680](https://twitter.com/KaleidoscopeOS/status/1549816475011399680)
 
